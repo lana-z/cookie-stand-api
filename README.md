@@ -1,8 +1,21 @@
-# api-quick-start
+# Cookie Stank API
+
+This is the Cookie Stand API Vercel Deployment Lab, course 401 class 41 on March 4, 2024 using the api-quick-start template mentioned below.
+
+### Author: Lana Z
+
+### Links and Resources
+
+- [Deployed site:](https://github.com/lana-z/cookie-stand-api) https://github.com/lana-z/cookie-stand-api 
+- quick start template and class review by JB, Class 41
+
+
+
+#### api-quick-start
 
 Template Project for starting up CRUD API with Django Rest Framework
 
-## Customization Steps
+#### Customization Steps
 
 - DO NOT migrate yet
 - add additional dependencies as needed
